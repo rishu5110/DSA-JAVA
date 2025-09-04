@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rishu5110/DSA-JAVA/tree/master/0009-palindrome-number) |
+| [3830-find-closest-person](https://github.com/rishu5110/DSA-JAVA/tree/master/3830-find-closest-person) |
 ## Tree
 |  |
 | ------- |
