@@ -16,9 +16,10 @@
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) 
     {
-        int []diameter=new int[1];
-        height(root,diameter);
-        return diameter[0];
+       int diameter[]=new int[1];
+       height(root,diameter);
+
+       return diameter[0];
           
     }
 
@@ -28,6 +29,7 @@ class Solution {
         {
             return 0;
         }
+
         int left=height(root.left,diameter);
         int right=height(root.right,diameter);
 
