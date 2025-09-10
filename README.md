@@ -10,17 +10,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rishu5110/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rishu5110/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 ## Array
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rishu5110/DSA-JAVA/tree/master/1834-minimum-number-of-people-to-teach) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
