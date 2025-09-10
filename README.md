@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishu5110/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/rishu5110/DSA-JAVA/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0100-same-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/rishu5110/DSA-JAVA/tree/master/1834-minimum-number-of-people-to-teach) |
+## Greedy
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/rishu5110/DSA-JAVA/tree/master/1834-minimum-number-of-people-to-teach) |
 <!---LeetCode Topics End-->
