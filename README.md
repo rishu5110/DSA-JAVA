@@ -63,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/rishu5110/DSA-JAVA/tree/master/2887-sort-vowels-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/rishu5110/DSA-JAVA/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
