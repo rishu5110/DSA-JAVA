@@ -3,15 +3,13 @@ class Solution {
     {
            int size=s.length();
            int count=0;
-       List<Integer> vowelsIdx = new ArrayList<>();
+      
            for(int i=0;i<size;i++)
            {
             char c=s.charAt(i);
             if(c=='a'|| c=='e'|| c=='i'|| c=='o'|| c=='u')
             {   
                 count++;
-
-                vowelsIdx.add(i);
 
             }
            } 
