@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rishu5110/DSA-JAVA/tree/master/0009-palindrome-number) |
+| [3462-vowels-game-in-a-string](https://github.com/rishu5110/DSA-JAVA/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/rishu5110/DSA-JAVA/tree/master/3830-find-closest-person) |
 ## Tree
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/rishu5110/DSA-JAVA/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/rishu5110/DSA-JAVA/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/rishu5110/DSA-JAVA/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/rishu5110/DSA-JAVA/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
