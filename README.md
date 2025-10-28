@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishu5110/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishu5110/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1006-vowel-spellchecker](https://github.com/rishu5110/DSA-JAVA/tree/master/1006-vowel-spellchecker) |
 | [1127-last-stone-weight](https://github.com/rishu5110/DSA-JAVA/tree/master/1127-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rishu5110/DSA-JAVA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/rishu5110/DSA-JAVA/tree/master/1127-last-stone-weight) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishu5110/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
