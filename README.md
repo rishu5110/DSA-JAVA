@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishu5110/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishu5110/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/rishu5110/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0994-rotting-oranges](https://github.com/rishu5110/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/rishu5110/DSA-JAVA/tree/master/1006-vowel-spellchecker) |
 | [1127-last-stone-weight](https://github.com/rishu5110/DSA-JAVA/tree/master/1127-last-stone-weight) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rishu5110/DSA-JAVA/tree/master/0075-sort-colors) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rishu5110/DSA-JAVA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/rishu5110/DSA-JAVA/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search Tree
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishu5110/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/rishu5110/DSA-JAVA/tree/master/0075-sort-colors) |
 ## Sliding Window
 |  |
 | ------- |
