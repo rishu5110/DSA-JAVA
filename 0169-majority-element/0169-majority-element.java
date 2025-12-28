@@ -10,16 +10,13 @@ class Solution {
                 ele=nums[i];
                 count=1;
             }
-            else 
+            else if(nums[i]==ele)
             {
-                if(nums[i]==ele)
-                {
-                    count++;
-                }
-                else
-                {
-                    count--;
-                }
+                count++;
+            }
+            else
+            {
+                count--;
             }
         }
         return ele;
