@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishu5110/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rishu5110/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rishu5110/DSA-JAVA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu5110/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rishu5110/DSA-JAVA/tree/master/0169-majority-element) |
 | [0994-rotting-oranges](https://github.com/rishu5110/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/rishu5110/DSA-JAVA/tree/master/1006-vowel-spellchecker) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishu5110/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu5110/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## String
 |  |
