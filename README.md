@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rishu5110/DSA-JAVA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/rishu5110/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [3462-vowels-game-in-a-string](https://github.com/rishu5110/DSA-JAVA/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/rishu5110/DSA-JAVA/tree/master/3830-find-closest-person) |
 ## Tree
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishu5110/DSA-JAVA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/rishu5110/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu5110/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## String
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishu5110/DSA-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rishu5110/DSA-JAVA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
