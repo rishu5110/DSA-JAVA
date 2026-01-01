@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rishu5110/DSA-JAVA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/rishu5110/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rishu5110/DSA-JAVA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/rishu5110/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rishu5110/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu5110/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rishu5110/DSA-JAVA/tree/master/0169-majority-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu5110/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/rishu5110/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rishu5110/DSA-JAVA/tree/master/0169-majority-element) |
 | [1006-vowel-spellchecker](https://github.com/rishu5110/DSA-JAVA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rishu5110/DSA-JAVA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rishu5110/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/rishu5110/DSA-JAVA/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
