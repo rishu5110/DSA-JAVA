@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rishu5110/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu5110/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rishu5110/DSA-JAVA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## String
 |  |
 | ------- |
