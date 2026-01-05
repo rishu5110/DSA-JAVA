@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rishu5110/DSA-JAVA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/rishu5110/DSA-JAVA/tree/master/1390-four-divisors) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rishu5110/DSA-JAVA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1975-maximum-matrix-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishu5110/DSA-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rishu5110/DSA-JAVA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1975-maximum-matrix-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rishu5110/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/rishu5110/DSA-JAVA/tree/master/0994-rotting-oranges) |
+| [1975-maximum-matrix-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 ## Simulation
 |  |
 | ------- |
