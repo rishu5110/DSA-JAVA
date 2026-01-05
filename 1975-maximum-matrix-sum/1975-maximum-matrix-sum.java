@@ -1,26 +1,30 @@
 class Solution {
-    public long maxMatrixSum(int[][] matrix) {
-        int n = matrix.length;
+    public long maxMatrixSum(int[][] matrix) 
+    {
+        int m=matrix.length;
+        int n=matrix[0].length;
+        int count_neg=0;
+        long sum=0;
+        int smallest_neg=Integer.MAX_VALUE;
 
-        int leastElement = 100001;
-        long sum = 0L;
-        int negativeCount = 0;
-
-        for(int[] rows : matrix ){
-            for(int value : rows){
-                if(value < 0){
-                    negativeCount++;
-                    value = -value;
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                if(matrix[i][j]<0)
+                {
+                    count_neg++;
                 }
+                sum=sum+Math.abs(matrix[i][j]);
+                smallest_neg=Math.min(smallest_neg,Math.abs(matrix[i][j]));
 
-                sum += value;
-                if(value < leastElement){
-                    leastElement = value;
-                }
-                
             }
         }
-
-        return (negativeCount%2 == 0) ? sum : (sum - 2*leastElement);
+        // int ab_sum=Math.abs(sum);
+        if(count_neg%2==0)
+        {
+            return sum;
+        }
+        return sum - (2*smallest_neg);
     }
 }
