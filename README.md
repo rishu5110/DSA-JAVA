@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu5110/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/rishu5110/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [1006-vowel-spellchecker](https://github.com/rishu5110/DSA-JAVA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rishu5110/DSA-JAVA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rishu5110/DSA-JAVA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rishu5110/DSA-JAVA/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rishu5110/DSA-JAVA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
