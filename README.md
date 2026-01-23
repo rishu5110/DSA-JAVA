@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rishu5110/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rishu5110/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rishu5110/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/rishu5110/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rishu5110/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rishu5110/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu5110/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/rishu5110/DSA-JAVA/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/rishu5110/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [1006-vowel-spellchecker](https://github.com/rishu5110/DSA-JAVA/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rishu5110/DSA-JAVA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rishu5110/DSA-JAVA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rishu5110/DSA-JAVA/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/rishu5110/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
