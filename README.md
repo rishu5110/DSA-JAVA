@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/rishu5110/DSA-JAVA/tree/master/1127-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rishu5110/DSA-JAVA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/rishu5110/DSA-JAVA/tree/master/1390-four-divisors) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishu5110/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/rishu5110/DSA-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rishu5110/DSA-JAVA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1975-maximum-matrix-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu5110/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishu5110/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rishu5110/DSA-JAVA/tree/master/0257-binary-tree-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishu5110/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
