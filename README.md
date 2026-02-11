@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishu5110/DSA-JAVA/tree/master/0169-majority-element) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rishu5110/DSA-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/rishu5110/DSA-JAVA/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/rishu5110/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/rishu5110/DSA-JAVA/tree/master/1006-vowel-spellchecker) |
 | [1127-last-stone-weight](https://github.com/rishu5110/DSA-JAVA/tree/master/1127-last-stone-weight) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rishu5110/DSA-JAVA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishu5110/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/rishu5110/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
+| [1004-max-consecutive-ones-iii](https://github.com/rishu5110/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu5110/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/rishu5110/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishu5110/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
@@ -212,5 +215,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rishu5110/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishu5110/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
