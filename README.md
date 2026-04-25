@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishu5110/DSA-JAVA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu5110/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/rishu5110/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/rishu5110/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rishu5110/DSA-JAVA/tree/master/0169-majority-element) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rishu5110/DSA-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/rishu5110/DSA-JAVA/tree/master/1006-vowel-spellchecker) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishu5110/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishu5110/DSA-JAVA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rishu5110/DSA-JAVA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/rishu5110/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishu5110/DSA-JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rishu5110/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishu5110/DSA-JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rishu5110/DSA-JAVA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
